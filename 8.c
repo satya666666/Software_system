@@ -21,3 +21,9 @@ return 0;
 }
 
 // Output:
+
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ gcc 8.c
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ ./a.out
+// I am the student of IIITB M.tech
+// Now I am doing the hands on of Software System
+// I learn about System call, Shell scripting and  Process Management.
