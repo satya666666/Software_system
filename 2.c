@@ -10,3 +10,9 @@ int main ()
     }
     return 0;
 }
+
+// Output:
+
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ cc 2.c
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ ./a.out
+// ^C
