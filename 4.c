@@ -14,3 +14,9 @@ close(fd);
 }
 return 0;
 }
+
+// Output:
+
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ cc 4.c
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ ./a.out
+// File descriptor: 3
