@@ -17,3 +17,9 @@ int main() {
     close(fd);                                                                // Closing the file descriptor
     return 0;
 }
+
+// Output:
+
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ cc 3.c
+// satyam@satyam-X542UQ:~/Desktop/Software_system-File$ ./a.out
+// File 'file_descriptor.txt' created with file descriptor: 3
